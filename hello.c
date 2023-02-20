@@ -1,5 +1,5 @@
 void main(){
-print("helloworld!")
+printf("helloworld!");//A fix
 
 
 }
